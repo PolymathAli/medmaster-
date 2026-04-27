@@ -619,8 +619,8 @@ export default function App() {
               <Award size={20} color="#080b12" strokeWidth={2.5} />
             </div>
             <div>
-              <div className="logo-text">MedMaster</div>
-              <div className="logo-sub">Medical Ethics & Forensics · 110 MCQs</div>
+              <div className="logo-text">Polymath-Ali</div>
+              <div className="logo-sub">Elective · 110 MCQs</div>
             </div>
           </div>
 
